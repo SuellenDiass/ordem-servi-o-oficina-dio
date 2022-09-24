@@ -24,7 +24,7 @@ Há alguns erros mesmo assim optei por entregar o projeto da forma que está.
 ![ordem_serviço_mecanica_suellen_dio](https://user-images.githubusercontent.com/102911341/192111891-9ac46f82-8263-47c5-bf61-a415756e4c8a.png)
 
 
-### Curso feito na Dio.me com a mentora Juliana Mascarenhas -Tech Education Especialist Dio/Owner- na  Dio 
+### Curso Banco de Dados SQL feito na Dio.me com a mentora Juliana Mascarenhas -Tech Education Especialist Dio/Owner- na  Dio 
 
 ## links úteis
 
